@@ -1,0 +1,35 @@
+{
+    "git.autofetch": true,
+    "editor.formatOnSave": true,
+    "latex-workshop.formatting.latex": "latexindent",
+    "claudeCode.preferredLocation": "panel",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
+    "remote.defaultExtensionsIfInstalledLocally": [],
+    "shadered.executablePath": "D:\\workspace-programming\\shadered-env\\SHADERed\\SHADERed\\SHADERed.exe",
+    "webgl-glsl-editor.format.placeBracesOnSeparateLine": true,
+    "webgl-glsl-editor.format.placeSpaceAroundUnaryOperators": true,
+    "webgl-glsl-editor.format.placeSpaceAfterKeywords": true,
+    "webgl-glsl-editor.format.placeSpaceBeforeCaseColons": true,
+    "webgl-glsl-editor.format.placeSpaceBeforeSemicolonsInFor": true,
+    "webgl-glsl-editor.format.placeSpaceBeforeCommas": true,
+    "webgl-glsl-editor.format.placeSpaceAfterFunctionNames": true,
+    "webgl-glsl-editor.format.placeSpacesInsideParentheses": true,
+    "webgl-glsl-editor.format.placeSpaceBeforeOpeningBrackets": true,
+    "webgl-glsl-editor.format.placeSpacesInsideBrackets": true,
+    "webgl-glsl-editor.format.placeSpacesAroundDots": true,
+    "chatgpt.followUpQueueMode": "queue",
+    "rust-analyzer.linkedProjects": [],
+    "redhat.telemetry.enabled": true
+}
